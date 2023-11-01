@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>
+		WebPageForMrObarr
+	</title>
+</head>
+
+<body>
+	<nav class="navbar background">
+		<ul class="nav-list">
+			<div class="logo">
+				<img src="https://img.freepik.com/premium-vector/justice-law-logo-template-vector-illustration-design_10135-415.jpg">
+			</div>
+			<li><a href="https://i.guim.co.uk/img/media/372abbdcb4d1c3a90c1760916544b3d7edd5dcbb/0_489_9571_5743/master/9571.jpg?width=300&quality=85&auto=format&fit=max&s=5f7f7121709a4ece50e127978d5a6df5">Why this class is awesome</a></li>
+        
+			<li><a href="https://ew3bhuc5v2t.exactdn.com/wp-content/uploads/sites/17/2023/06/OBarrDavid.jpg?strip=all&lossy=1&resize=172%2C228&ssl=1">Mr Obarr is awesome</a></li>
+			<li><a href="https://image.maxpreps.io/careers/8/9/c/89cc9903-5bda-404f-a598-06091e041d25/thumbnail.jpg?version=0">Christian</a></li>
+      <li><a
+href="https://en.wikipedia.org/wiki/Law">law</a></li>
+		</ul>
+
+		
+	</nav>
+
+	<section class="firstsection">
+		<div class="box-main">
+			<div class="firstHalf">
+				<h1 class="text-big" id="web">
+					Why this class is awesome
+				</h1>
+				
+				<p class="text-small">
+					This class is awesome because I said so.
+				</p>
+
+
+			</div>
+		</div>
+	</section>
+
+	<section class="secondsection">
+		<div class="box-main">
+			<div class="secondHalf">
+				<h1 class="text-big" id="program">
+					Mr Obarr is awesome
+				</h1>
+				<p class="text-small">
+					Mr Obarr has drip and is rich and cool plus hes friends with lil squeaky.
+				</p>
+
+
+			</div>
+		</div>
+	</section>
+
+	<section class="section">
+		<div class="paras">
+			<h1 class="sectionTag text-big">Christian</h1>
+
+			<p class="sectionSubTag text-small">
+				hes cool and a really good lawyer.
+			</p>
+
+
+		</div>
+
+		<div class="thumbnail">
+			<img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAKEBAQEA4JEA4NDQoIEAkJCA8ICQgNIBEiIiAdHx8kKCgsJCYxJx8fLTIkMSw3MDEvIys1RDM4Qyg5MDcBCgoKDg0NFQ8NFTcZFiUrKy03Ny03LSsrLSstKy0rLSsrKzctKysrKystKysrKystKysrKysrKysrLSsrKysrK//AABEIAJ0AnQMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAADAgQFBgcBAAj/xAA8EAABAwMBBAcGBQIGAwAAAAABAAIDBBEhEgUxQVEGBxMiYXGBMkKRobHRFCNSwfBichVTY4Lh8SUzQ//EABkBAAMBAQEAAAAAAAAAAAAAAAABAgQDBf/EAB8RAQEAAgMBAQEBAQAAAAAAAAABAhEDITESQTJRBP/aAAwDAQACEQMRAD8Aya3HgfklOeBg4v73BeGMFDcA4WPofeCsPP7vr9UaF1wmJlLO6c8ieScUpQDhxXmn5rjiuXTAhRKeB0rrNa4nef6QkwsLyGgXLi1oaB7RvYKxGA0umnjbeUESyvbcuc62B6LlyZ/K8MNpui6T1jKWKihOgQNc10kbS+SQaiSPT75TKjpQ65LptRN7AXc518o+zujs9RYHVp34u+5VpoeiJaBe+OBaQ6/hlYss7WvHj0joaWeJnaB8hAthzruaORwnlNtyR7SI52te04inNmu8FN0+w5GjQXydnvsTdM6vodE7Jvk3v7xUzc8X8b6Ubp5t2TazYWviDJaUTtIDiWzg2tb4KjAjfyytG6S9HXwkFrnFgOCblzQqNtOhdSyFrve74cB3XN8Fs4eTc1WXl4/nxGueXHl/Suk2CM5oOSPX3k2ndYLu4G08vAfwp5s6LVMxnJjhc87KPgGp1zuHeJT3ZJLpg7+74WU5Hj6so2cD7JwNWDjKZ1dGQRu3c1PQgOsDm3Lih18IDuJx+lcLZHf5qoudZDk7ufnySpG3wgat4OQcZWlnDmkD8HePeA7qcUpTSYBu4b+RTmAogOyugJLTdLCYS3Rg6ZjJcAwxTThxF2h1rBXHopQmRz3yNu+QucXOPe3qm9GIjJNps4tOHEA6bcj/AMrTNkRiIH9Qdex4/wAysfNd3TVxdRaqOMRhrQLAWGMKSiZz+CiaOUO0535v729TEZJ3Lk0C6cJtMzxTrURgjegzA/FOlEDtWAObkXvi3NUHppsthpDIBZ8L2yDnoLrEBaHtN1m5wqT0uPaU0jBqOpocGtF3OOq5t8E8P62nl7jLC6wPgmVW6wtzTqc4tz4ckwqHXcB6raw+OtZjSOPec7gAnuxQZJwG7rEZw210wc4vuG7uJGAVMdDKV1RU6W2JDJHhp988lGXisP6i9QUoiZgZcQC4jDcIz4AQ25Ix8UGSsABafItvuKG2tHE8gByCxd2vRy1J0oLkGVl8+O4BKkfbdwQoJS5/u2HB19JK9DK6jzIayMLXEHeLJzTldr2ESm4aCQ11mm43LkSMbuCnIcjNddNQ5Fa4Kia31ZUTH0mpukvknmjfcXxpwD6WPqU6LDHUGEjGptiDfU3gD81V+qXbJgqJadxu2VjZ2tJ7uobz9PgtA2w0NqYpLWL+5a3FYeSayehhrLGaPaVvZ944A4nDQOCV/j7NfZx6ZHtDnObE7WWjjffuwnphbIzI3Jq2hjjcXtZG17w5jpA20j2qIqntNtDtgbA3F+6RZwUftHb7KcXIkcAQwuaw6QUWJ5LzwszRjiPFMqSNs7Xse1pGrLXNu1+cInujs66cqq1tZDqjzcXFrh3gq5semdUVFnHuQvc0k8SSf2VyhoWRgEAANa1gaBZobmwVQ6W7ROyqWtkZYOk7OGNww6OQi1x6ZVSd6iL1N1kvSFzfxM2n2O2nII9nTqwoVgDnZyOXNEdIS2534FyhQ3zbTnFycrZPGDLuu1Eh3AWA4BO9g7SdQTxytv3HWIHvM4hMHNza9/Fcbv8AsiiLpJtcTPfIBIWuPaFzW3bFfmlUz5Ki5i7RzRYXjY4tBVf2JtQ0T3f5co0Pba/krPV1X4cRjIEkf4hpbM1gc0uI3ehWfLHVacc9xSGB0xsL23ldpZjGTZuq+LaiLpEUvZhwzc4uDayVSua03cXAc2i67VmhdUS55JFjZuA69sJcYXqkguJa7ULgBxFnEWXY/qrx8KlJbSk2XQq/Qd7L2iaCpgqBqPZSNe4A2c6Pj8Rda3V9L6Tahg/Dyl0kZZI9hjdHpbe3Lhn5LFphqFv5dSnQoObU3zZrC93LTcZXHlx3Nu/FyWXT6IoJwQDwOlOqiS2GgEkOyfZChqBvcb46c334Ca1U82bYZqdGXB3s+aw3LUb5NnDKxsLyZNYDsF5HdaUPZlW0ySENf2Zu4Fw0OIxuSaWhktqJjfexBDgbjxUbWslbKBH2Zc7ulrJtbY/PCW7O9L6WeoqhpuD44WO9ZPSGOqa6lFzIypEpIw1jQy33WkBrmMf2hvox2guxpxc/D9wvn7bFT21RM/g6WQg8xdaOCb7rL/05fM1DN5+XApQOLDefBD3/AETthI3Bp8Bhy1sBuWkDdbxuhgpxUPvi1vC6A0pB1x+aOypeON7AMGo30tCbqVpNmGZocBIb77WAupysk7VjN+IyR9925IuvFKjbcgKknAbgIkS9Zeh5clf4Ra6CvLgBKRlAXVw6tqXtqmQFpLTA+MnT3RfCqTIzvPyWr9UNCJKarkAu9stKcDvaQDf6rnyfzp04+strLsGe7DE4/mw9wh2L8vilwVQcXNNvadg8TxSNq0TmPEsZs/2gQPa33B/nFQkdV2chLw4X1Pv7oNrkLz8npY2LHLKyJuY2G41YHetdNjOCNYDRfUBfut/m5NWVZLTkajbJOAL/APSidpVbYwSX2aNTsmzWnfZL63063Um0f0628aKk7MP/ADqjtI2gH/1x3yf2WQXx4qwdNaeeOoaZ7/nQxVUYJuGxHd+6rpW7jx+cXk8uf1kLTi58kVzDwPwQoDbPoiudfd8l3jkQ6Inx88IbG3NvovOeeZ9V2LepoJI/ngrTsXbccULWPDg5hcLtGHNvcKrSYJRqc4Pooym46cd7N1ICn0sa7Tl+ohwJN0JlNz+FsJ2xpFhwG4e6FSAmxk8LeeEqOCxyfQZThrEQMAVEAIxyJ80tjRysi6QhyG2AmBMFa31GS6W1TOToZCOYIIWRxBaD1PV3Y1xivioicy197hn7pZdqaxtSi08O6cg27vkVWZ6BjyQ5t2nFhhaFoEjSCLg8DxVe2nswwEkAlh3kC7mrLnx/saeLl31VKr9gOju6OcBhHdbINbh4KM2bsV07y6fvhlg2IXtI7hf5K2Tsvzxqs21wPJS/R7ZRjHavG7vNaRvdzK5Y4byds+TWPdZJ10QhlTTMsPy6OKA+eskrODS6txzvsdxWkdchL6tpt/8AM55nVlZ802W6dajz732C2EsFiPUZahyAbh9VJNIcLoctK13D1amSMa22/wA7XXW8wiT0hbkZHzQouXyKA9IMpUTd65KuxO0/JTVYXtINH3ThjceWEFiO3fb1V9JLXF5cJQHUBzTf90a68QgPMCnehVUafaFI8G1qqBhP9JdYg/EqECNQSGORrgctex4I4G4ISpx9XNFshK34PwO4+aTTyiRodwcA/wCSU92kE8s25ngPql+Ff9VTblVBs+dodDWPafzHupoO2igF95+wUxU1jY2BzDcPA0hu4iyx7puXQbSmZPG2QzaahsrKmSnl02xbeMbvRWjoBVSVFJ3jM5sFXLTMNQ7XM1ugEtJ42ubeB8FMx0f1bO1b65qPsnUbjvfFUkkc9QWXPi4j1C2Pr1b3aI8hUNv6Nt9FkQVpngUIPpyRbrzm8klBlEJvLAHeB5hOEhxt6/dARbhY54cPFCcbolUO8fihJBMNRidx5oTUqXFlQFSbrzTheagOkLt14rjUApKiNjfkkrgSpx9S9HZ+1pKZ36qeB177zpCfuk1OA5BzvMqA6AS9rs2jd/oNb8DZThID/Jjjc4spKs061Io3VUV2R6m0+t88jW6aaLtDa3ic481IdUzGSUbi1mkCvqiGucXuA0tt9vRUDpZtV21K58g70Qk7CKMC7qh18EfP58yrp1UVYhfV0rnXkbI2tcB7MZIsQPIAEnxKCgHXhFengktuqHR/2js/usXut265477OjNt1S13l3SsI4n/cqBRSAlOOEgIMtAe7vAeKNdNgbyeA1FAM6s98oCLObklDSoTNl6Y4C6UKY4VA4iNwlBBpnYRLpAoFcvYry45ALBXrZ81wFd/coD6G6qpu02VT/wBBqIv7fzSR8rI3T3aX4OiqXBxaXxtpmub7QubG3pdQ3UzPq2a8f5dXOy3LuNKc9Y8h7KBjY+0mmn0QxlutvaacEjw358OSUGTOti0b2u0NsKqQanOebR7Kgtknxtn15kp70Z2kyk2jTNhFqeST/DjO92mTaE7zYu9MDySY2sjikiDz2bC2WsrxmStm/Q37eBuqrV1b5KqCQDQyN8T4omnu0cTXXJ/e/ii+JjYuuUf+NPhPTFYAd63vrYkFRstzwbtL6WcHwuLfVYITlM448pIXZEklBlOKatdYvP8AtRpHWCbXLm+G8lMG0nPxKQivHdB5lyEFITQdbem1Q5GemdQqB3THARiQm1L7ITmyQdC64XXF0IBLD8ku6G3eUVqA2HqPl1U9bH+meGS3m0/ZS3WHO8dhFHZjnsnfJVl2j8JBgOt5/wA3qu9RTs1w4WpH+tnJ91pzOdPTwg2jdEZnADMvetYpQslNq6kSNYyNp7GMhkMI9qpkt7R8zlMKihF3xOc0FrW1FZVE92nZvDG+e718FJRO7CJ07bdoX/hIyRilwO8PHP8AN4RtSmbFIKUA9lDTja8xvaTaMvYl9ieAxbjzT1sounSSsFV0dbLp0h8VNZh920rQFil8lac+rfUdG3Fxz+LkYLYDWiYED5rMeKIcJeUguXpDlDJumYVQ9eldZoA9TyQ5Dcgcy1EqRbHkEgHNhjB5lNk6rPdHgmqVD//Z" alt="laptop image">
+		</div>
+	</section>
+
+	<footer class="background">
+		<p class="text-footer">
+			mr Obarr inc
+		</p>
+
+
+	</footer>
+</body>
+
+</html>
